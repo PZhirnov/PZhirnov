@@ -25,7 +25,7 @@
 
 -  👋 Hi, I’m @PZhirnov
 - 👀 I’m interested in development of web services and solutions for working with data
-- 🌱 I am currently studying to be a Python developer at GB University
+- 🌱 I am currently studying to be a Python developer at GeekBrains University
 - 💞️ I’m looking to collaborate on development of services for business and fintech
 - 📫 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @pzhirnov
 
