@@ -27,7 +27,9 @@
 - 💞️ I’m looking to collaborate on development of services for business and fintech
 - 📫 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @pzhirnov
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PZhirnov)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PZhirnov&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PZhirnov)](https://github.com/pzhirnov/github-readme-stats)
 
