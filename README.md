@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Pavel Zhirnov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python developer from Russia</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Django+Flask+Rest+SQL+JavaScript+Docker+PostgreSQL+BI+MySQL)](https://git.io/typing-svg)
 
