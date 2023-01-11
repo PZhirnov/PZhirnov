@@ -1,7 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Pavel Zhirnov</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Django+Flask+Rest+SQL+JavaScript+Docker+PostgreSQL+BI+MySQL)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
